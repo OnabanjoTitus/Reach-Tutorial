@@ -1,4 +1,4 @@
-'reach 0.1';//Indacte it as a reach program
+'reach 0.1';
 
 const Player = {
     getHand :Fun([], UInt),
