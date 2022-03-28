@@ -16,7 +16,7 @@ export const main = Reach.App(() => { //compiler
         //Specs interact here
     });
     init();
-    //Program goes here.
+   
     
     Alice.only(() => {
         const wager = declassify(interact.wager)
